@@ -1,0 +1,25 @@
+Name: Spaghetti Carbonara with Peas
+Ingredients: spaghetti,  eggs,  pancetta,  Parmesan,  black pepper,  peas
+Instructions: Cook the spaghetti in boiling water until al dente, then whisk eggs with grated Parmesan and black pepper in a bowl. In a pan, cook pancetta until crispy, add peas, stir well, and cook for 1-2 minutes. Drain the spaghetti and toss it with the pancetta, peas, and egg mixture. Serve immediately, garnished with extra Parmesan and black pepper.
+Image: Screenshot_2024-06-03_132028.png
+
+Name: Classic Maggi
+Ingredients: Maggi noodles (with tastemaker),  water
+Instructions: Boil water in a saucepan and add the Maggi noodles along with the tastemaker. Cook for 2-3 minutes until the noodles are soft and the water has reduced to form a slightly thick sauce. Stir occasionally to prevent sticking. Serve hot.
+Image: Screenshot_2024-05-30_013034.png
+
+Name: Ragda Puri
+Ingredients: Puris (hollow crispy shells),  ragda (spicy yellow peas curry),  tamarind chutney,  mint-coriander chutney,  chopped onions,  chaat masala,  sev (thin crispy noodles)
+Instructions: Make a small hole in the top of each puri and fill them with hot ragda. Drizzle with tamarind chutney and mint-coriander chutney. Garnish with chopped onions, sprinkle with chaat masala and sev. Serve immediately for a spicy and satisfying version of pani puri.
+Image: Screenshot_2024-06-03_133641.png
+
+Name: Matter Paneer Sabji
+Ingredients: 1 cup paneer (cottage cheese),  cubed 1 cup green peas (fresh or frozen) 2 medium-sized tomatoes,  finely chopped 1 large onion,  finely chopped 1 green chili,  finely chopped (optional,  adjust to taste) 1 tablespoon ginger-garlic paste 1 teaspoon cumin seeds 1 teaspoon turmeric powder 1 teaspoon red chili powder (adjust to taste) 1 teaspoon coriander powder 1/2 teaspoon garam masala powder Salt to taste 2 tablespoons oil or ghee Fresh cilantro leaves for garnish
+Instructions: Heat 1 tablespoon of oil or ghee in a pan over medium heat. Fry the paneer cubes until they turn light golden brown on all sides. Remove the paneer from the pan and set aside.In the same pan, add the remaining oil or ghee. Add cumin seeds and let them splutter.Add finely chopped onions and green chili (if using). Saute until the onions turn golden brown.Add ginger-garlic paste and saute for a minute until the raw smell disappears.Add finely chopped tomatoes and cook until they become soft and mushy.Add turmeric powder, red chili powder, coriander powder, and salt to taste. Mix well and cook for 2-3 minutes until the spices are well combined and the oil starts to separate from the masala.Add green peas and the fried paneer cubes to the pan. Mix gently to coat them with the masala.Add a little water (about 1/2 to 1 cup) to adjust the consistency of the gravy. Bring it to a boil, then reduce the heat to low, cover the pan, and let it simmer for 5-7 minutes, stirring occasionally.Once the peas and paneer are cooked and the gravy reaches the desired consistency, sprinkle garam masala powder over the dish and mix well.Garnish with fresh cilantro leaves.
+Image: Screenshot_2024-06-03_133154.png
+
+Name: Spaghetti Carbonara
+Ingredients:  spaghetti,  eggs,  pancetta,  parmesan,  black pepper
+Instructions: shdh
+Image: Screenshot_2024-06-03_133641.png
+

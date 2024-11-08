@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>Welcome to the Recipe Organizer</h1>
+<div class="row">
+    {% for recipe in recipes %}
+    <div class="col-md-4">
+        <div class="card mb-4 shadow-sm">
+            <img class="card-img-top" src="{{ url_for('static', filename='images/' ~ recipe['Image']) }}" alt="Recipe image">
+            <div class="card-body">
+                <h5 class="card-title">{{ recipe['Name'] }}</h5>
+                <a href="{{ url_for('view_recipe', name=recipe['Name']) }}" class="btn btn-primary">View Recipe</a>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}
